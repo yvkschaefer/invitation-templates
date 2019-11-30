@@ -1,0 +1,14 @@
+* {
+  padding: 0;
+  margin: 0;
+  background-color: hotpink;
+  font-family: 'Roboto', sans-serif;
+}
+
+p {
+  color: yellow;
+  padding: 13vh 24vw;
+  font-size: xx-large;
+  line-height: 1.3em;
+  text-align: center;
+}
